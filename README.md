@@ -1,10 +1,10 @@
 ### Jocelyn E. Behm
-#### Integrative Ecology Lab
-#### Center for Biodiversity
-#### Department of Biology
-#### Temple University
-#### 1925 N. 12th St. Philadelphia, PA 19122
-#### *jebehm@temple.edu*
+Integrative Ecology Lab
+Center for Biodiversity
+Department of Biology
+Temple University
+1925 N. 12th St. Philadelphia, PA 19122
+*jebehm@temple.edu*
 
 You can use the [editor on GitHub](https://github.com/jebehm/CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
